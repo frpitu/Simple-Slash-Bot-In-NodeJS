@@ -1,0 +1,14 @@
+{
+  "name": "Simple-Slash-Bot",
+  "version": "1.0.0",
+  "description": "By frpitu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "frpitu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "14.0.0"
+  }
+}
